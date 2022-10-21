@@ -4,4 +4,5 @@ def summ(*args):
 
 b = [int(x) for x in input().split()]
 
+
 print(summ(b))
